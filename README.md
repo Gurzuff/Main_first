@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mihail Kosov
+- 👀 I’m interested in DS and blockchain
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on studies for beginners
+- 📫 Ukraine, Dnepr ...
