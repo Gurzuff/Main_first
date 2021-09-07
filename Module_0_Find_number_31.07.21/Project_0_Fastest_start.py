@@ -50,7 +50,7 @@ def step_logick(predict, next_step, number):
         elif number > predict:
             predict += next_step
             next_step = int(next_step / 2)
-        elif number < predict:
+        else:
             predict -= next_step
             next_step = int(next_step / 2)
     return count
